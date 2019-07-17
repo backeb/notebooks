@@ -12,9 +12,10 @@ Then using conda, install the following packages (as needed) by running the foll
 
 ## available notebooks
 
-`gfs_real_time_winds_example.ipynb`
+`01-ERA5_reanalysis_example.ipynb`
+  * Notebook that load monthly [ERA5 netcdf data](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means?tab=overview), calculates annual anomaly and plots as warming stripes
+
+`02-GFS_real_time_winds_example.ipynb`
   * Notebook that downloads GFS now- and forecast data from NOAA's GrADS Data Server and plots wind speed and directional vectors on a map for a timestamp closest to the current local time
 
-`ERA5_reanalysis_example.ipynb`
-  * Notebook that load monthly [ERA5 netcdf data](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means?tab=overview), calculates annual anomaly and plots as warming stripes
 
