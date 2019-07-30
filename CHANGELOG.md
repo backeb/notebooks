@@ -5,4 +5,5 @@ Date: Author - Comment
 16 Jul 2019: bjornb - added new example using ERA5 reanalysis data and plotting warming stripes
 17 Jul 2019: bjornb - renamed 'dwnld_gfs_wind_nwcst_plt' to 'gfs_real_time_winds_example'
 17 Jul 2019: bjornb - added solutions to exercises in ERA5 example
+30 Jul 2019: bjornb - split ERA5 data into two files, 1. rainfall and 2. temperature
 ```
