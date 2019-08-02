@@ -6,4 +6,6 @@ Date: Author - Comment
 17 Jul 2019: bjornb - renamed 'dwnld_gfs_wind_nwcst_plt' to 'gfs_real_time_winds_example'
 17 Jul 2019: bjornb - added solutions to exercises in ERA5 example
 30 Jul 2019: bjornb - split ERA5 data into two files, 1. rainfall and 2. temperature
+             bjornb - renamed 02-GFS_real_time_winds_example.ipynb to todo-GFS_real_time_winds_example.ipynb
+02 Aug 2019: bjornb - added 02-SeaDataNet_example.ipynb
 ```

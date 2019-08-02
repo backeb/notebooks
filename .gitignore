@@ -1,0 +1,7 @@
+# Don't track content of these folders
+data/
+.ipynb_checkpoints/
+
+# ignore these OS specific files
+.DS_Store
+
