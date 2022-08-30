@@ -1,0 +1,14 @@
+name: lost
+channels: 
+        - conda-forge
+dependencies:
+        - python=3.8
+        - pathlib
+        - xarray=0.14.1
+        - dask
+        - netCDF4
+        - motuclient
+        - cdsapi
+        - ipykernel
+        - scipy
+        - matplotlib
