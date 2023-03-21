@@ -1,0 +1,17 @@
+name: dfm_tools_env
+channels:
+  - conda-forge
+dependencies:
+  - git 
+  - shapely
+  - cartopy
+  - pyepsg 
+  - geopandas
+  - contextily
+  - xarray
+  - dask
+  - netcdf4
+  - bottleneck
+  - xugrid
+  - cdsapi
+  - pydap
